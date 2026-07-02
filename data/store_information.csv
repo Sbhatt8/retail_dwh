@@ -1,0 +1,51 @@
+store_id,store_name,region,ownership_model,opening_date,city,state,country,latitude,longitude,store_status
+STORE001,Hyderabad_Store_1,East,Franchise,2021-04-30,Hyderabad,Telangana,India,29.9766,79.5523,ACTIVE
+STORE002,Mumbai_Store_2,South,Company Owned,2019-09-10,Mumbai,Maharashtra,India,28.6556,70.9924,RENOVATION
+STORE003,Mumbai_Store_3,South,Franchise,2023-07-22,Mumbai,Maharashtra,India,17.8267,88.5998,RENOVATION
+STORE004,Mumbai_Store_4,East,Company Owned,2015-06-21,Mumbai,Maharashtra,India,18.8505,74.5207,ACTIVE
+STORE005,Kolkata_Store_5,South,Franchise,2025-05-10,Kolkata,West Bengal,India,15.6115,73.9537,ACTIVE
+STORE006,Mumbai_Store_6,East,Franchise,2015-04-18,Mumbai,Maharashtra,India,28.2682,76.8258,RENOVATION
+STORE007,Hyderabad_Store_7,South,Franchise,2019-06-18,Hyderabad,Telangana,India,25.9218,79.6475,RENOVATION
+STORE008,Mumbai_Store_8,North,Company Owned,2018-03-15,Mumbai,Maharashtra,India,20.2733,76.5273,RENOVATION
+STORE009,Delhi_Store_9,West,Franchise,2017-08-04,Delhi,Delhi,India,13.3648,74.5682,ACTIVE
+STORE010,Bengaluru_Store_10,West,Franchise,2021-09-07,Bengaluru,Karnataka,India,25.6934,74.1443,ACTIVE
+STORE011,Chennai_Store_11,South,Franchise,2025-10-23,Chennai,Tamil Nadu,India,25.4171,75.1184,ACTIVE
+STORE012,Bengaluru_Store_12,West,Company Owned,2020-06-27,Bengaluru,Karnataka,India,25.4171,77.3566,ACTIVE
+STORE013,Hyderabad_Store_13,East,Company Owned,2023-10-31,Hyderabad,Telangana,India,16.2257,82.0031,ACTIVE
+STORE014,Chennai_Store_14,East,Franchise,2020-05-01,Chennai,Tamil Nadu,India,26.2798,86.6231,RENOVATION
+STORE015,Mumbai_Store_15,North,Company Owned,2017-06-06,Mumbai,Maharashtra,India,17.9957,89.7398,RENOVATION
+STORE016,Mumbai_Store_16,South,Company Owned,2019-01-12,Mumbai,Maharashtra,India,29.5614,82.9913,RENOVATION
+STORE017,Kolkata_Store_17,North,Company Owned,2021-02-06,Kolkata,West Bengal,India,14.8802,79.8568,ACTIVE
+STORE018,Kolkata_Store_18,South,Company Owned,2025-11-14,Kolkata,West Bengal,India,10.627,81.6211,RENOVATION
+STORE019,Mumbai_Store_19,East,Company Owned,2023-11-08,Mumbai,Maharashtra,India,12.8962,82.603,ACTIVE
+STORE020,Mumbai_Store_20,North,Franchise,2018-03-04,Mumbai,Maharashtra,India,13.8589,74.7295,ACTIVE
+STORE021,Hyderabad_Store_21,South,Company Owned,2017-12-19,Hyderabad,Telangana,India,10.3677,70.9752,ACTIVE
+STORE022,Delhi_Store_22,East,Franchise,2024-12-10,Delhi,Delhi,India,22.3617,73.9979,ACTIVE
+STORE023,Bengaluru_Store_23,West,Franchise,2024-07-10,Bengaluru,Karnataka,India,28.7189,73.3276,ACTIVE
+STORE024,Delhi_Store_24,East,Franchise,2015-11-13,Delhi,Delhi,India,29.7938,84.8648,ACTIVE
+STORE025,Delhi_Store_25,South,Franchise,2017-08-04,Delhi,Delhi,India,12.3394,71.8898,ACTIVE
+STORE026,Chennai_Store_26,West,Franchise,2016-03-07,Chennai,Tamil Nadu,India,10.156,79.5072,RENOVATION
+STORE027,Delhi_Store_27,East,Company Owned,2018-07-20,Delhi,Delhi,India,19.3022,84.7694,ACTIVE
+STORE028,Bengaluru_Store_28,East,Company Owned,2015-04-29,Bengaluru,Karnataka,India,21.0816,81.9603,RENOVATION
+STORE029,Kolkata_Store_29,East,Company Owned,2019-08-19,Kolkata,West Bengal,India,25.4271,85.9585,ACTIVE
+STORE030,Hyderabad_Store_30,North,Franchise,2024-01-01,Hyderabad,Telangana,India,18.3439,74.5166,RENOVATION
+STORE031,Bengaluru_Store_31,East,Company Owned,2023-12-20,Bengaluru,Karnataka,India,18.644,77.2302,ACTIVE
+STORE032,Kolkata_Store_32,West,Franchise,2016-09-06,Kolkata,West Bengal,India,24.0905,86.1257,RENOVATION
+STORE033,Delhi_Store_33,South,Franchise,2015-08-11,Delhi,Delhi,India,17.937,76.5307,ACTIVE
+STORE034,Kolkata_Store_34,West,Company Owned,2021-07-08,Kolkata,West Bengal,India,13.3522,73.8654,ACTIVE
+STORE035,Delhi_Store_35,South,Company Owned,2015-11-29,Delhi,Delhi,India,23.2859,81.5995,ACTIVE
+STORE036,Delhi_Store_36,East,Company Owned,2018-10-12,Delhi,Delhi,India,13.8329,72.5701,ACTIVE
+STORE037,Hyderabad_Store_37,South,Company Owned,2016-10-30,Hyderabad,Telangana,India,17.8753,72.4404,RENOVATION
+STORE038,Delhi_Store_38,East,Company Owned,2024-02-23,Delhi,Delhi,India,24.5739,87.2373,ACTIVE
+STORE039,Delhi_Store_39,East,Company Owned,2024-09-16,Delhi,Delhi,India,29.142,71.8723,ACTIVE
+STORE040,Mumbai_Store_40,North,Franchise,2016-10-05,Mumbai,Maharashtra,India,15.8553,86.1193,ACTIVE
+STORE041,Bengaluru_Store_41,North,Company Owned,2019-12-06,Bengaluru,Karnataka,India,14.3367,88.3061,ACTIVE
+STORE042,Delhi_Store_42,East,Company Owned,2025-01-16,Delhi,Delhi,India,26.8311,84.2792,ACTIVE
+STORE043,Chennai_Store_43,East,Company Owned,2019-07-06,Chennai,Tamil Nadu,India,21.9422,76.2053,ACTIVE
+STORE044,Hyderabad_Store_44,East,Company Owned,2020-05-02,Hyderabad,Telangana,India,24.8055,70.0983,ACTIVE
+STORE045,Kolkata_Store_45,East,Franchise,2025-06-19,Kolkata,West Bengal,India,19.8584,87.6587,ACTIVE
+STORE046,Delhi_Store_46,East,Company Owned,2016-03-03,Delhi,Delhi,India,14.1259,87.5368,ACTIVE
+STORE047,Kolkata_Store_47,West,Company Owned,2017-05-23,Kolkata,West Bengal,India,20.6452,87.1417,RENOVATION
+STORE048,Chennai_Store_48,East,Company Owned,2016-10-26,Chennai,Tamil Nadu,India,10.5923,74.8878,ACTIVE
+STORE049,Delhi_Store_49,South,Company Owned,2025-09-16,Delhi,Delhi,India,26.7716,75.1906,ACTIVE
+STORE050,Kolkata_Store_50,East,Company Owned,2018-04-05,Kolkata,West Bengal,India,27.1158,85.6229,RENOVATION
